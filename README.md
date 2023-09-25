@@ -1,1 +1,5 @@
-I'm Amit Kumar, a passionate web developer. As a web enthusiast, I'm constantly exploring the latest trends and technologies to create innovative and user-friendly solutions.Let's connect on LinkedIn or reach out via email at amitkumar2k00@gmail.com for collaboration or tech discussions. Let's code and build together! 🚀
+- 👋 Hi, I’m @Amit Kumar
+- 👀 I’m interested in web Development
+- 🌱 I’m currently learning DSA
+- 💞️ I’m looking to collaborate on any web development projects in association with FAANG company
+- 📫 How to reach me ..LinkedIn ID: www.linkedin.com/in/amitkumar2k00 or E-mail: amitkumar2k00@gmail.com
